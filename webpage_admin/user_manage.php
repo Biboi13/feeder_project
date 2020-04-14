@@ -249,6 +249,7 @@ include ('../include/head.php');
 		</html>
 			
 			
-			
+
+        <?php include("modal.php") ?>
 		
 		

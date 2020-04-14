@@ -127,22 +127,7 @@ include ('../include/head.php');
                                       
                                     </ul>
                                 </li>
-								
-								
-                            
-								
-								
-						
-                              
-								
-				
-								
-								
-								
-								
-							
-                              
-                              
+  
                             </ul>
                         </div>
                     </div> 
@@ -301,10 +286,7 @@ include ('../include/head.php');
 		include ('../include\script.php');
 		include ('../include/shs_graph_public_vs_private.php');
 		include ('../include/shs_graph.php');
-	
-
-
-	?>
+?>
 
             <script src="https://canvasjs.com/assets/script/jquery-1.11.1.min.js"></script>
             <script src="https://canvasjs.com/assets/script/canvasjs.min.js"></script>
